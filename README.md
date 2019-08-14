@@ -1,7 +1,7 @@
 # clockJS
 Building a clock in javaScript
  
-##*[Clock Js](https://levig68.github.io/clockJS/)* 
+*[Clock Js](https://levig68.github.io/clockJS/)* 
 
 ## Built with:
 1. JavaScript
